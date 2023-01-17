@@ -4,6 +4,3 @@
 #define SUM(x, y) ((x) + (y))
 
 #endif
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
